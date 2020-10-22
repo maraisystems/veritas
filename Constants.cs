@@ -8,9 +8,9 @@ namespace Veritaspay
 {
     internal static class Constants
     {
-        public const string CLOUD_NAME = "veritaspay";
-        public const string API_KEY = "825442879784748";
-        public const string API_SECRETS = "1Ea_5X5uWwa6adAByaK914C-OPw";
+        public const string CLOUD_NAME = "";
+        public const string API_KEY = "";
+        public const string API_SECRETS = "";
 
     }
 }
